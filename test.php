@@ -5,7 +5,4 @@ echo 'main冲突';
 
 echo '再一次测试';
 
-print_r('cccc');
-
-
-var_dump('amend');
+'asdfa';
